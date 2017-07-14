@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* In this project I learned the use of different tag like, <br> to create space between                   lines. <s> to cross strikethrough text. <hr> to create dividing lines in the html document and, the <sup> tag for superscript text which appears half a character above the normal line.
+
+* This project has been relatively easy in general.
+
+* The only part that I had problems with is the “by” word inside my h3 which I don’t know how to make it “unbold”. It appears that I need to use some CSS to fix it.
+
+* A lot of research in Google and the resources given by Udacity.
